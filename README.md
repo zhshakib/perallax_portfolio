@@ -1,33 +1,21 @@
 <p align="center">
-  <a href="https://cara.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
-  </a>
+  <img alt="LekoArts" src="./mirinda.png" />
 </p>
 <h1 align="center">
-  Gatsby Starter Portfolio: Cara
+  Parallax Portfolio || ZH Shakib || Gatsby 
 </h1>
-
-<p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Gatsby Starter Portfolio: Cara is released under the 0BSD license." />
-  </a>
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
-  </a>
-</p>
 
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-cara).
 
-[**Demo Website**](https://cara.lekoarts.de)
+[**Live Website**](https://parallaxzh.netlify.app/)
 
-Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
 ## ✨ Features
 
 - Theme UI-based theming
 - react-spring parallax effect
 - CSS Animations on Shapes
+<h1 align="center"> Build Your Own Like Me</h1>
 
 ## 🚀 Getting Started
 
@@ -46,7 +34,7 @@ gatsby new project-name https://github.com/LekoArts/gatsby-starter-portfolio-car
 Navigate into your new site's directory and start it up.
 
 ```sh
-cd project-name
+cd project-name\
 gatsby develop
 ```
 
@@ -100,8 +88,11 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 
 - **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Reference Guides_ and _Gatsby API_ sections in the sidebar.
 
-## 🌟 Supporting me
+## 🌟 Supporting Theme Author
 
-Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
+>Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
 
-Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts) or [GitHub Sponsor](https://github.com/sponsors/LekoArts)!
+## 🌟 Contact Me
+You all can knock me on [Facebook](https://fb.com/zhshakib). Hire me also on [Fiver](https://fiver.com/hello_shakib)
+
+Please star this project!
