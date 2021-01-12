@@ -15,7 +15,7 @@ Playful and Colorful One-Page portfolio featuring Parallax effects and animation
 - Theme UI-based theming
 - react-spring parallax effect
 - CSS Animations on Shapes
-<h1 align="center"> Build Your Own Like Me</h1>
+<h1 align="center"> Build Your Own Like Me! </h1>
 
 ## 🚀 Getting Started
 
