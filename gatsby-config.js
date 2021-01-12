@@ -10,6 +10,9 @@ module.exports = {
     // Of course you can also add new values here to query them like usual
     // See all options: 
     siteTitleAlt: `ZH Shakib | Personal Portfolio Landing Page`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`,
+    author: `@zhshakib`,
   },
   plugins: [
     {
